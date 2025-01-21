@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Set background color for all pages */ 
+body {
+  background-color: white;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  height: 100%;
+}
